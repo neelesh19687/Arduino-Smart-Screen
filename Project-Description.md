@@ -1,0 +1,3 @@
+# Arduino-Smart-Screen
+This project was based on voice controlled wireless technology. The smart screen will display the output according to the voice input given through the mobile phone. It can be controlled through Google Assistant. This project was actually an Arduino project under the category of Embedded Systems/Core.
+The project is basically a voice controlled wireless smart screen. The screen takes the voice as input and according to the input it displays the output on the screen. This will save the time of user and all the processes are little bit faster because the input is of the voice form. Also, it can be operated with the mobile phone via Bluetooth. 
